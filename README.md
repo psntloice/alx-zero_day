@@ -1,2 +1,2 @@
 My first readme
-Its a git, vagrant and virtualbox environment course.
+0x03-git -Its a git and github environment course.
