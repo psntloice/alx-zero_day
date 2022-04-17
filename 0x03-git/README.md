@@ -1,3 +1,3 @@
 Understanding of :
-git add, push, pull and commit commands.
-.gitignore.
+- git add, push, pull and commit commands.
+- .gitignore.
